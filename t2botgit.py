@@ -9,7 +9,7 @@ import time
 
 
 
-API_TOKEN = '1995749047:AAE8WFFijKSjlpnBL6WOBGDIxbyKAhdLbZY'
+API_TOKEN = 'token'
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
